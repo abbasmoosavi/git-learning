@@ -1,1 +1,1 @@
-This project for learning git commands.
+This project for learning git commands. this is a description.
