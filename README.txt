@@ -1,1 +1,1 @@
-This project demonstrates basic Git usage.
+This project for learning git commands.
