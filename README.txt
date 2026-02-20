@@ -22,4 +22,8 @@ Rename files in git
 7- git rm
 Delete files from git
 
+8- git add -A
+stage changes in your working directory for the next commit in Git
 
+9- git checkout
+to discard changes files
