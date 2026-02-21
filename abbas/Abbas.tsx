@@ -6,6 +6,7 @@ const Abbas = () => {
     <View>
       <Text>Abbas</Text>
       <Text>Ahmad</Text>
+      <Text>Ali</Text>
     </View>
   )
 }
