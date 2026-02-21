@@ -30,3 +30,7 @@ to discard changes files
 
 10- git restore --staged .
 Unstage staged files
+
+11- git commit --amend
+To edit last commit message before push
+after push you need to end using git push --force
