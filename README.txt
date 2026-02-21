@@ -34,3 +34,6 @@ Unstage staged files
 11- git commit --amend
 To edit last commit message before push
 after push you need to end using git push --force
+
+12- git revert commitID1
+To  revert changes
