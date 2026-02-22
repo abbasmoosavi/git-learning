@@ -37,3 +37,12 @@ after push you need to end using git push --force
 
 12- git revert commitID1
 To  revert changes
+
+13- git branch (branch-name)
+To Make a new branch
+
+14- git checkout (branch-name)
+To checkout to branch
+
+15- git branch -b (branch-name)
+To Make a new branch and checkout to it
