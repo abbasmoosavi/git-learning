@@ -46,3 +46,6 @@ To checkout to branch
 
 15- git branch -b (branch-name)
 To Make a new branch and checkout to it
+
+16- git merge (branch-name-or-commit-id)
+To Merge branch or commit in current branch 
