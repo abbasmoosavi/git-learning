@@ -55,3 +55,10 @@ To delete branch
 
 18- git branch -D
 To force delete branch
+
+19- git log --graph
+To show commits of branches as a graph
+
+20- git log --oneline
+To show commits in one line. not more details
+
