@@ -48,4 +48,10 @@ To checkout to branch
 To Make a new branch and checkout to it
 
 16- git merge (branch-name-or-commit-id)
-To Merge branch or commit in current branch 
+To Merge branch or commit in current branch
+
+17- git branch -d (branch-name)
+To delete branch
+
+18- git branch -D
+To force delete branch
