@@ -62,3 +62,15 @@ To show commits of branches as a graph
 20- git log --oneline
 To show commits in one line. not more details
 
+21- git merge --abort
+
+22- git remote -v
+To show origins of fetch and push remote url
+Such as:
+
+```command
+origin	https://github.com/abbasmoosavi/git-learning.git (fetch)
+origin	https://github.com/abbasmoosavi/git-learning.git (push)
+```
+
+23- 
