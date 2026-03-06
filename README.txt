@@ -88,3 +88,12 @@ To fetching remote updates without merging
 27- git branch -r
 To getting branch list of remote
 
+28- git merge --no-ff
+To merging without fast forward then fix conflicts
+
+29- git log --graph --oneline --all
+To show all commits in one line
+
+
+
+
