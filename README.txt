@@ -73,4 +73,18 @@ origin	https://github.com/abbasmoosavi/git-learning.git (fetch)
 origin	https://github.com/abbasmoosavi/git-learning.git (push)
 ```
 
-23- 
+23- git fetch
+To fetching new changes/commits from remote
+
+24- git pull
+To first fetching then merging fast forward
+
+25- git push
+To upload commits from local branch to remote branch
+
+26- git remote update
+To fetching remote updates without merging
+
+27- git branch -r
+To getting branch list of remote
+
