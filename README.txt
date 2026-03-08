@@ -96,3 +96,6 @@ To show all commits in one line
 
 30- git rebase (branch-name)
 To Rebase branch with head of (branch-name)
+
+31- git push -d origin (branch-name)
+To delete remote origin branch from repository
