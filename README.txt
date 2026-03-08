@@ -94,6 +94,5 @@ To merging without fast forward then fix conflicts
 29- git log --graph --oneline --all
 To show all commits in one line
 
-
-
-
+30- git rebase (branch-name)
+To Rebase branch with head of (branch-name)
