@@ -103,3 +103,5 @@ To delete remote origin branch from repository
 32- git rebase HEAD~(number of commits) -i
 To squash (number of commits) current commits in one commit for clean commits
 
+33- git rebase -i --autosquash
+To auto squash commits
