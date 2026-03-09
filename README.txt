@@ -99,3 +99,7 @@ To Rebase branch with head of (branch-name)
 
 31- git push -d origin (branch-name)
 To delete remote origin branch from repository
+
+32- git rebase HEAD~(number of commits) -i
+To squash (number of commits) current commits in one commit for clean commits
+
